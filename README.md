@@ -13,6 +13,6 @@ Ao longo deste projeto, aprofundei meus conhecimentos na bibliotecas flet, apren
   - A biblioteca _pyautogui_ foi utilizada para detectar a resolução da tela do usuário, garantindo que o jogo seja aberto no centro.
 
 ## ✅ Atualizações futuras:
- - Planejo concluir o desenvolvimento do jogo, como sendo o principal foco atual a criação da página onde o jogo ocorrerá.
+ - Planejo concluir o desenvolvimento do jogo, sendo o principal foco atual a criação da página onde o jogo ocorrerá.
  - Animações e barra de progresso.
  - Arquivo executável que permitirá a execução do jogo em qualquer dispositivo.
