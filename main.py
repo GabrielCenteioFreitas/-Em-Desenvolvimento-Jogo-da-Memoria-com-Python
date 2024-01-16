@@ -168,7 +168,7 @@ def main(page = ft.Page):
                         texto_qntd_pares_encontrados.content.color = colors.BLACK87
                         barra.content.color = colors.BLACK87
                     page.update()
-                    if len(qntd_pares_encontrados) == 1:
+                    if len(qntd_pares_encontrados) == 16:
                         vitoria()
                 else: time.sleep(1.5)
                 for i in range(QNTD_CARDS):
