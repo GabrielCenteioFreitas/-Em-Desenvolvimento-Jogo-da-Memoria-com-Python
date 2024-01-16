@@ -191,7 +191,7 @@ def main(page = ft.Page):
                     precisa_virar()
 
         image_links = {
-            'carta-virada': 'carta-virada2.png',
+            'carta-virada': 'carta-virada.png',
             'pizza': 'carta-pizza.png',
             'hamburguer': 'carta-hamburguer.png',
             'cachorroquente': 'carta-cachorroquente.png',
