@@ -15,5 +15,4 @@ Ao longo deste projeto, aprofundei meus conhecimentos na biblioteca _flet_, apre
   - A biblioteca _time_ foi utilizada para inserir pausas em momentos essenciais para a dinâmica do jogo.
 
 ## ✅ Atualizações futuras:
- - Efeitos sonoros;
- - Arquivo executável.
+ - Efeitos sonoros.
